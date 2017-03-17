@@ -1,0 +1,28 @@
+html{
+  border-radius: 20px;
+}
+
+.title {
+  text-align: center;
+  background-color: #0D3C83;
+  color: white;
+  border-style: double;
+  background-size: 30px;
+}
+
+body{
+  font-family: Georgia, Times, "Times New Roman",serif;
+}
+
+.image {
+  text-align: center;
+  margin: 1px;
+}
+
+p {
+  color: black;
+  text-align: center;
+  font-size: 22px;
+  font-weight: lighter;
+  display: block;
+}
